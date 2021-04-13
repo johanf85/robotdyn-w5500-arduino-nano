@@ -1,5 +1,4 @@
-#   
-Pins wiring of Robotdyn w5500 with arduino nano
+# Pins wiring of Robotdyn w5500 with arduino nano
 
 This is a description of how to wire a Robotdyn W5500 module to an arduino nano. 
 
