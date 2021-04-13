@@ -1,4 +1,5 @@
-# Pins wiring of Robotdyn w5500 with arduino nano
+#   
+Pins wiring of Robotdyn w5500 with arduino nano
 
 This is a description of how to wire a Robotdyn W5500 module to an arduino nano. 
 
@@ -22,8 +23,10 @@ Pins 
 | 5V (ICSP) | 5V |
 | GND (ICSP) | GND |
 
-Based on the W5500 Ethernet shield from Robotdyn, I followed the same pins to which the shield is connected to the nano, see below diagram. I did however put the MOSI,  MISO and SCK, RST, GND and 5V to the ICSP pins.
+Based on the W5500 Ethernet shield (not the module) from Robotdyn, I followed the same pins to which the shield is connected to the nano, see below diagram. I did however put the MOSI,  MISO and SCK, RST, GND and 5V to the ICSP pins of the arduino.
 
 ![](https://user-images.githubusercontent.com/43075793/114511598-6619ca80-9c38-11eb-8957-94fb95d8c3b5.png)
+
+The pinout of the nano:
 
 ![](https://user-images.githubusercontent.com/43075793/114511367-19ce8a80-9c38-11eb-8262-d595594c1f8a.png)
