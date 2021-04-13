@@ -22,7 +22,7 @@ Pins 
 | 5V (ICSP) | 5V |
 | GND (ICSP) | GND |
 
-Based on the W5500 Ethernet shield (not the module) from Robotdyn, I followed the same pins to which the shield is connected to the nano, see below diagram. I did however put the MOSI,  MISO and SCK, RST, GND and 5V to the ICSP pins of the arduino.
+ I followed the same pins to which the shield (not the module) is connected to the nano, see below diagram. I did however put the MOSI,  MISO and SCK, RST, GND and 5V to the ICSP pins of the arduino.
 
 ![](https://user-images.githubusercontent.com/43075793/114511598-6619ca80-9c38-11eb-8957-94fb95d8c3b5.png)
 
