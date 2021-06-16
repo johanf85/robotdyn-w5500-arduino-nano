@@ -2,7 +2,7 @@
 
 This is a description of how to wire a Robotdyn W5500 module to an arduino nano. 
 
-W5500 ethernet modules are known to be way more reliable for then ENC28J60 in combination with arduino. 
+W5500 ethernet modules are known to be way more reliable than ENC28J60 in combination with arduino. 
 
 Manufacturer website: [Robotdyn w5500 module](https://robotdyn.com/ethernet-module-w5500-3-3v-5v.html)  
 Tutorial on how to edit the Ethernet.h library for the W5500: [Instructables Arduino W5500](https://www.instructables.com/Arduino-Nano-with-WIZ550io-Easy-Internet/)
